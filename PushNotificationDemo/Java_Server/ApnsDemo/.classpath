@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/apns-0.1.5-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/bcprov-jdk16-145-1.jar"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/javapns-jdk16-163.jar"/>
+	<classpathentry kind="lib" path="/Users/suxinde/Documents/Workspaces/MyEclipse 10/ApnsDemo/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

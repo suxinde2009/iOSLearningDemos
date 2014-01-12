@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D09EBDA2-3C98-481B-A366-214517056D6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChatRoomDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A5824845-E997-4874-B9EB-D1103FE8C03F</key>
+		<string>https://github.com/suxinde2009/iOSLearningDemos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChatRoomDemo/ChatRoomDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A5824845-E997-4874-B9EB-D1103FE8C03F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/suxinde2009/iOSLearningDemos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A5824845-E997-4874-B9EB-D1103FE8C03F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A5824845-E997-4874-B9EB-D1103FE8C03F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSLearningDemos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
